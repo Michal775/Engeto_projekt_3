@@ -8,7 +8,7 @@ Program stahuje volební výsledky z daného URL a ukládá je do CSV souboru.
 
 ## Instalace knihoven
 
-Knihovny, které jsou použity v kódu jsou uložené v souboru "requirements.txt". Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
+Knihovny, které jsou použity v kódu jsou uložené v souboru 'requirements.txt'. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
     ```sh
     pip install -r requirements.txt
     ```
