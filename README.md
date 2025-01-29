@@ -1,4 +1,4 @@
-# Engeto_projekt_3: Zpracování volebních výsledků
+# Engeto_projekt_3
 
 Tento projekt je třetím projektem do Engeto Online Python Akademie.
 
