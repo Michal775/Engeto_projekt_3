@@ -10,16 +10,16 @@ Program stahuje volební výsledky z daného URL a ukládá je do CSV souboru.
 
 Knihovny, které jsou použity v kódu jsou uložené v souboru `requirements.txt`. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
 
-    ```
+    `
     pip install -r requirements.txt
-    ```
+    `
 
 ## Spuštění projektu
 
 Spuštění souboru `Projekt_3.py` v rámci přík. řádku požaduje dva povinné argumenty.
 
-    ```
+    `
     python Projekt_3.py <odkaz-uzemniho-celku> <vysledny-soubor>
-    ```
+    `
 
 Následně se vám stáhnou výsledky jako soubor s příponou `.csv`
