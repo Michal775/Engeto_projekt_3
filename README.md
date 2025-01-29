@@ -30,3 +30,10 @@ Výsledky hlasování pro okres Ostrava:
 
   1. argument: `https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8106`
   2. argument: `vysledky_ostrava.csv`
+
+Spuštění programu:
+
+    python Projekt_3.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8106" "vysledky_ostrava.csv"
+
+Průběh stahování:
+
